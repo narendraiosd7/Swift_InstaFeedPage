@@ -1,0 +1,136 @@
+
+{
+    "stories": [
+        "appleProfile",
+        "facebookProfile",
+        "githubProfile",
+        "instagramProfile",
+        "linkedInProfile",
+        "lolProfile",
+        "minecraftProfile",
+        "profile",
+        "robinhoodProfile",
+        "spotifyProfile",
+        "tiktokProfile",
+        "uberProfile",
+        "wechatProfile",
+        "youtubeProfile"
+    ],
+    "users": [
+        {
+            "profile_name": "Apple",
+            "profile_picture": "appleProfile",
+            "post": [
+                "apple1"
+            ]
+        },
+        {
+            "profile_name": "Facebook",
+            "profile_picture": "facebookProfile",
+            "post": [
+                "facebookapp1"
+            ]
+        },
+        {
+            "profile_name": "GitHub",
+            "profile_picture": "githubProfile",
+            "post": [
+                "github1",
+                "github2"
+            ]
+        },
+        {
+            "profile_name": "Instagram",
+            "profile_picture": "instagramProfile",
+            "post": [
+                "instagram1",
+                "instagram2",
+            ]
+        },
+        {
+            "profile_name": "LinkedIn",
+            "profile_picture": "linkedInProfile",
+            "post": [
+                "instagram5",
+                "instagram6",
+                "instagram7"
+            ]
+        },
+        {
+            "profile_name": "Lol",
+            "profile_picture": "lolProfile",
+            "post": [
+                "dks3331",
+                "dks3332",
+                "dks3333"
+            ]
+        },
+        {
+            "profile_name": "MineCraft",
+            "profile_picture": "minecraftProfile",
+            "post": [
+                "minecraft1"
+            ]
+        },
+        {
+            "profile_name": "Profile",
+            "profile_picture": "profile",
+            "post": [
+                "dks3334",
+                "dks3336"
+            ]
+        },
+        {
+            "profile_name": "Apple",
+            "profile_picture": "appleProfile",
+            "post": [
+                "apple1"
+            ]
+        },
+        {
+            "profile_name": "Robinhood",
+            "profile_picture": "robinhoodProfile",
+            "post": [
+                "robinhoodapp1",
+                "robinhoodapp2"
+            ]
+        },
+        {
+            "profile_name": "Spotify",
+            "profile_picture": "spotifyProfile",
+            "post": [
+                "spotify1"
+            ]
+        },
+        {
+            "profile_name": "Tiktok",
+            "profile_picture": "tiktokProfile",
+            "post": [
+                "tiktok1"
+            ]
+        },
+        {
+            "profile_name": "Uber",
+            "profile_picture": "uberProfile",
+            "post": [
+                "dks3335"
+            ]
+        },
+        {
+            "profile_name": "WeChat",
+            "profile_picture": "wechatProfile",
+            "post": [
+                "instagram3",
+                "instagram4"
+            ]
+        },
+        {
+            "profile_name": "YouTube",
+            "profile_picture": "youtubeProfile",
+            "post": [
+                "youtube1"
+            ]
+        }
+    ]
+    
+}
